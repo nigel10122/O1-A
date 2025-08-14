@@ -1,0 +1,14 @@
+Hi Venkat,
+
+I believe you are aware of contributions that Nigel has made for Alts in last couple of years he has been with us. Wanted to provide you, my feedback.
+
+Nigel without a doubt has been the best developer among my 2 squads and i believe he is one of the top performers in whole of Alts. He not only works on his stories but also supports other squads within Alts as well as FCCS squad. I regularly see folks reaching out to him when they are not able to resolve issues and Nigel readily supports them. He constantly works outside of business hours supporting my squad's install, and i see him often being involved and supporting installs for other squads. With the level of support he provides, it is evident that he is technically very sound. Additionally, his soft skills of being approachable, willing to help, and shares knowledge makes him a complete team player. 
+
+Some of his recent work where he has exceeded expectations are - 
+•	OPA fix for Doc Management API - Here the OPA recommendations provided by CAPE was breaking business functionality and they didn't have any solution to address it. Nigel quicky produced a solution that made the app OPA compliant and ensure the business functionality is unaffected.
+•	Control-m infra enhancement - Due to auto-scaling connections for AWS EC2 instance to Control-m server was getting broken. Nigel quickly designed and pro-actively implemented the solution. R4 is very appreciative of his contributions as this avoids manual steps.
+•	Terracore migration - CAPE Terracore module implementation for AWS batch created number of issues. Nigel worked through all those issues single handedly and ensured prod installs were completed. In addition to fixing issues for my squad, he also shared this knowledge to other squads and provided support during their installs.
+
+To summarize, Nigel is very invaluable not only for my squad, but for whole of Alts and Fidelity. I highly appreciate his contributions and wish him continued success.
+
+Please let me know if you need any clarification.
